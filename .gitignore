@@ -1,0 +1,11 @@
+# Ignore environment files
+venv/
+
+#Things to ignore in frontend
+frontend/node_modules/
+frontend/build/
+
+#Things to ignore in backend
+backend/__pycache__
+backend/users.db
+backend/frontend 
