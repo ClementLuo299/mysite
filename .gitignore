@@ -8,4 +8,8 @@ frontend/build/
 #Things to ignore in backend
 backend/__pycache__
 backend/users.db
-backend/frontend 
+backend/frontend
+/backend/*.pyc
+/backend/*.pyo 
+
+
